@@ -1,0 +1,12 @@
+.logo-div{
+    width:70px;
+    height:70px;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background: #f4efe7;
+}
