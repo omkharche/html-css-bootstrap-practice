@@ -44,3 +44,42 @@
 
 
 
+.book-now {
+    
+    display: flex;
+    justify-content: center;
+    color: #de042e;
+    border-top: 1px dotted #979797;    
+    padding-top: 10px;
+    margin: 0 5px 5px 5px;
+
+    
+}
+
+/* explorer cards */
+.explore-slide{
+    text-align: center;
+    margin-top: 1em;
+}
+
+/* Exclusive offer */
+.exclusive-offer{
+    background-color: #F0F4FB;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom:15px;
+}
+.information h1{
+    color: #0f5b8e;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    font-size: 28px;
+    font-weight: 700;
+}
+.information p{
+    margin-bottom: 1em;
+}
