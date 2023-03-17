@@ -1,12 +1,16 @@
 .logo-div{
-    width:70px;
+    width:100px;
     height:70px;
-    display: flex;
-    border-radius: 50%;
-    align-items: center;
-    text-align: center;
     background-color: rgb(255, 255, 255);
+    margin-left: 2%;
 }
 body{
     background: #f4efe7;
+    font-family: Flame-Regular;
+}
+.style-1{
+    font-weight:900;
+    color: #7b7b7b;
+    font-family: Flame-Regular;
+    font-size: 16px;
 }
