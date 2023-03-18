@@ -6,11 +6,23 @@
 }
 body{
     background: #f4efe7;
-    font-family: Flame-Regular;
+    font-family:Arial, Helvetica, sans-serif;
 }
 .style-1{
-    font-weight:900;
-    color: #7b7b7b;
-    font-family: Flame-Regular;
-    font-size: 16px;
+    font-weight:700;
+    color: #a1a1a1;
+    font-size: 14px;
+    margin-top: 2%;
+}
+.nbd-align{
+    margin-top: 25px;
+    padding: 0px;
+    width: fit-content;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+.nbd-icon{
+    margin-top: 21px;
+    padding:0px;
+    width: 18px;
 }
