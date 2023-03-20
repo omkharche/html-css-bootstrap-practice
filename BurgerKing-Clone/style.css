@@ -17,8 +17,11 @@ body{
 .style-2{
     font-weight:700;
     color: #000000;
-    font-size: 20px;
+    font-size: 21px;
     margin-top: 2%;
+}
+.style-2-al1{
+
 }
 .nbd-align{
     margin-top: 25px;
@@ -32,3 +35,26 @@ body{
     padding:0px;
     width: 18px;
 }
+.footer {
+    background-color: #323231;
+    height: 400px;
+  }
+  
+  .footer a  {
+    text-decoration: none;
+  }
+
+  .footer h6{
+    color: #f8f6f3;
+    margin-top: 50px;
+  }
+  pre{
+    color: #f8f6f3;
+  }
+  .footer i{
+        color: #ffffff;
+        font-size: 30px;
+       padding: 10px;
+       float: right;
+  }
+  
