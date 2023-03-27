@@ -1,3 +1,35 @@
-.header-1{
+.header-1   {
     font-size: 100px;
 }
+
+/* Container holding the image and the text */
+.c1 {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: -358px;
+    right: 1134px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .text-block1 {
+    position: absolute;
+    bottom: -358px;
+    right: 849px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  } 
+
+  .cimg:hover{
+    filter: brightness(50%);
+  }
+
+ 
