@@ -1,0 +1,124 @@
+.logo-div{
+    width:100px;
+    height:70px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 2%;
+}
+body{
+    background: #f4efe7ef;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.style-1{
+    font-weight:700;
+    color: #a1a1a1;
+    font-size: 14px;
+    margin-top: 2%;
+}
+.style-2{
+    font-weight:700;
+    color: #000000;
+    font-size: 34px;
+    margin-top: 2%;
+}
+.style-2-al1{
+
+}
+.nbd-align{
+    margin-top: 25px;
+    padding: 0px;
+    width: fit-content;
+    padding-left: 5px;
+    padding-right: 20px;
+}
+.nbd-icon{
+    margin-top: 21px;
+    padding:0px;
+    width: 18px;
+}
+
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+  
+}
+
+.carousel-cell {
+  width: 9.2%;
+  height: 170px;
+  margin-right: 40px;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+  text-align: center;
+}
+
+.carousel-cell2 {
+  width: 28%;
+  height: 200px;
+  margin-right: 50px;
+  border-radius: 30px;
+  counter-increment: carousel-cell;
+}
+
+.carousel-cell3 {
+  width: 100%;
+  height: 200px;
+  margin-right: 50px;
+  border-radius: 30px;
+  counter-increment: carousel-cell;
+}
+
+.carousel-cell-img{
+  background: white   ;
+}
+
+.carousel-cell-img2{
+  background: white;
+  width:370px;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  line-height: 200px;
+  font-size: 80px;
+}
+
+.ci-heading{
+  font-size: 15px;
+  font-weight:bolder;
+}
+
+.card-img-al{
+  height: 186px;
+}
+  
+.card-align-c{
+  width:500px;
+}
+
+.footer {
+  background-color: #323231;
+  height: 400px;
+}
+
+.footer a  {
+  text-decoration: none;
+}
+
+.footer h6{
+  color: #f8f6f3;
+  margin-top: 50px;
+}
+pre{
+  color: #f8f6f3;
+}
+.footer i{
+      color: #ffffff;
+      font-size: 30px;
+     padding: 10px;
+     float: right;
+}

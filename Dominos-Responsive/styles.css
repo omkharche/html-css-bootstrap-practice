@@ -1,0 +1,85 @@
+.hh{
+    height: 65px;  
+}
+.hbc{
+    background-color: #1a5ca3;
+}
+.hi{
+    margin-top: 1.9%;
+    color: #6288a3;
+    font-size: 15px;
+    font-weight:500;
+    width: fit-content;
+}
+.hi:hover{
+    color : #19669c;
+}
+.hb{
+    margin-top: 0px;
+}
+.bbtn{
+    background-color: #53b418;
+    color: white;
+    font-size: 18px;    
+    border: none;
+    width: 345px;
+    height: 53px;
+    margin-top: 5%;
+    font-weight: 700;
+    box-shadow: 0.1px 0.7px 0.7px 0.1px #2a2a2a;
+}
+.bimg2{
+    width: 346px;
+    margin-top: 2%;
+}
+.cd {
+    width: 50px;
+    height: 300px
+}
+.bh1{
+    font-size: 23px;
+    font-weight: 720;
+    color: #6481a1;
+}
+
+
+
+.book-now {
+    
+    display: flex;
+    justify-content: center;
+    color: #de042e;
+    border-top: 1px dotted #979797;    
+    padding-top: 10px;
+    margin: 0 5px 5px 5px;
+
+    
+}
+
+/* explorer cards */
+.explore-slide{
+    text-align: center;
+    margin-top: 1em;
+}
+
+/* Exclusive offer */
+.exclusive-offer{
+    background-color: #F0F4FB;
+}
+
+ul{
+    list-style-type: none;
+}
+li{
+    margin-bottom:15px;
+}
+.information h1{
+    color: #0f5b8e;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    font-size: 28px;
+    font-weight: 700;
+}
+.information p{
+    margin-bottom: 1em;
+}
